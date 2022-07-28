@@ -10,7 +10,7 @@ Update entry
 Delete
 Close
 """
-from tkinter import *
+from thinter import *
 
 window=Tk()
 
